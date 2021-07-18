@@ -1,6 +1,6 @@
 # CDN
 
-Recommended: [jsDelivr](//cdn.jsdelivr.net), which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at [cdn.jsdelivr.net/npm/docsify/](//cdn.jsdelivr.net/npm/docsify/).
+Recommended: [jsDelivr](//cdn.jsdelivr.net), test 123 which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at [cdn.jsdelivr.net/npm/docsify/](//cdn.jsdelivr.net/npm/docsify/).
 
 ## Latest version
 
